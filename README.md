@@ -57,7 +57,7 @@ Task!t is a modern, feature-rich task management application built with React Na
    - Wait for the forking process to complete
    - Clone your forked repository:
      ```bash
-     git clone https://github.com/YOUR_USERNAME/Taskit.git
+     git clone https://github.com/Owusu1946/Taskit.git
      ```
 
 2. **Set Up the Project**
